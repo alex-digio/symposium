@@ -1,0 +1,121 @@
+{
+  "status": 1,
+  "events": [
+    {
+      "id": 2412,
+      "title": "This is my English event",
+      "opening_date": 1690383766,
+      "closing_date": 1722006166,
+      "url": "http://digio.sym.ovh/2412/detail/this-is-my-english-event.html",
+      "place": "C. los Pasos, 56, 30500 Molina de Segura, Murcia, España",
+      "lat": 38.051681518555,
+      "lng": -1.2073260545731,
+      "partner_id": 62,
+      "timezone": "Europe/Madrid",
+      "attending_mode": "free",
+      "attending_link": null,
+      "dates": [
+        {
+          "id": 4974,
+          "date_ini": 1690383766,
+          "date_end": 1722006166,
+          "title": "ATTEND_OPEN"
+        }
+      ],
+      "notifications": [
+        {
+          "id": 830,
+          "event_id": 2412,
+          "title": "hola!",
+          "description": "sed bienvenidos al evento de inglés",
+          "date": 1690383766
+        }
+      ],
+      "operations": [
+        {
+          "operation_id": 123,
+          "group_id": 501,
+          "group_label": "Entradas y salidas",
+          "operation_label": "Evento principal",
+          "on_label": "Entrada",
+          "off_label": "Salida"
+        },
+        {
+          "operation_id": 124,
+          "group_id": 501,
+          "group_label": "Entradas y salidas",
+          "operation_label": "Evento secundario",
+          "on_label": "Entrada",
+          "off_label": "Salida"
+        },
+        {
+          "operation_id": 125,
+          "group_id": 502,
+          "group_label": "Documentos",
+          "operation_label": "Certificado C1",
+          "on_label": "Entrega",
+          "off_label": "Recogida"
+        }
+      ],
+      "attendees": [
+        {
+          "attendance_id": 12,
+          "user_id": 33,
+          "event_id": 1224,
+          "username": "Someone",
+          "email": "email",
+          "isPublic": 1,
+          "attendance_token": "tokkn",
+          "profileImageString": "asdasdsad"
+        }
+      ]
+    }
+  ],
+  "event_types_found": [
+    {
+      "id": 21,
+      "name": "Actividad deportiva"
+    },
+    {
+      "id": 10,
+      "name": "Concurso"
+    }
+  ],
+  "event_categories_found": [
+    {
+      "id": "80-7",
+      "parent_id": "3060",
+      "name": "AAA -> 001",
+      "code_parent": "1",
+      "partner_id": 80
+    },
+    {
+      "id": "80-23",
+      "parent_id": "3060",
+      "name": "AAA -> 003",
+      "code_parent": "1",
+      "partner_id": 80
+    },
+    {
+      "id": "1001-22",
+      "parent_id": "2557",
+      "name": "Administración de empresas agropecuarias",
+      "code_parent": "1",
+      "partner_id": 1001
+    },
+    {
+      "id": "1001-23",
+      "parent_id": "2557",
+      "name": "Administración de recursos naturales ",
+      "code_parent": "1",
+      "partner_id": 1001
+    },
+    {
+      "id": "80-26",
+      "parent_id": "3139",
+      "name": "DDD Nueva Hija ESP",
+      "code_parent": "25",
+      "partner_id": 80
+    }
+  ]
+}
