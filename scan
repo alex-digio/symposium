@@ -1,0 +1,25 @@
+{
+  "status": "userOK",
+  "results": [
+    {
+      "operation_id": 123,
+      "read_id": 12345
+    },
+    {
+      "operation_id": 124,
+      "read_id": 12346
+    }
+  ],
+  "msgs": [
+    {
+      "color": "#38A832",
+      "msg": "Lectura correcta - \"Inscripcion basica - Entrada\"",
+      "icon": "success"
+    },
+    {
+      "color": "#A8A032",
+      "msg": "El asistente ya ha realizado \"Entrada\" - 21 de Marzo, 09:40 (1 veces)",
+      "icon": "warning"
+    }
+  ]
+}
