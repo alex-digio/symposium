@@ -20,6 +20,16 @@
       "color": "#A8A032",
       "msg": "El asistente ya ha realizado \"Entrada\" - 21 de Marzo, 09:40 (1 veces)",
       "icon": "warning"
+    },
+    {
+      "color": "#38A832",
+      "msg": "Lectura incorrecta - \"Inscripcion basica - Salida\"",
+      "icon": "success"
+    },
+    {
+      "color": "#A8A032",
+      "msg": "El QR no es válido, caducó hace 17 años.",
+      "icon": "error"
     }
   ]
 }
