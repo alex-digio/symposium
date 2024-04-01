@@ -24,7 +24,7 @@
     {
       "color": "#38A832",
       "msg": "Lectura incorrecta - \"Inscripcion basica - Salida\"",
-      "icon": "success"
+      "icon": "error"
     },
     {
       "color": "#A8A032",
